@@ -8,7 +8,7 @@ This is an implementation of Policy Gradient & Actor-Critic playing Pong/Cartpol
 Here's a quick demo of the agent trained by PG playing Pong.
 
 <p align="center"> 
-<img src="fig/breakout.gif">
+<img src="fig/pong.gif">
 </p>
 
 With Keras, I've tried my best to implement deep reinforcement learning algorithm without using complicated tensor/session operation. In this project, the following techniques have been implemented:
